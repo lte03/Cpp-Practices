@@ -1,0 +1,5 @@
+﻿  Calculator.cpp
+C:\Users\LOKMAN\source\repos\Calculator\Calculator.cpp(18,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\LOKMAN\source\repos\Calculator\Calculator.cpp(22,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\LOKMAN\source\repos\Calculator\Calculator.cpp(26,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Calculator.vcxproj -> C:\Users\LOKMAN\source\repos\Calculator\x64\Debug\Calculator.exe
