@@ -38,11 +38,12 @@ int main(){
         }
 
         if (!found) {
-            cout << "Uzgunum tahmin hakkınız bitti. Tuttugum sayi:" << secretNumber << endl;
+            cout << "Uzgunum tahmin hakkÃ½nÃ½z bitti. Tuttugum sayi:" << secretNumber << endl;
         }
 
         cout << "Tekrar oynamak istermisiniz:";
         cin >> playAgain;
     }
     cout << "Oyunu oynadiginiz icin tesekkur ederiz" << endl;
+    return 0;
 }
