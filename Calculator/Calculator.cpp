@@ -40,4 +40,5 @@ int main()
 			std::cout << "Gecersiz Operator";
 			break;
 	}
+	return 0;
 }
