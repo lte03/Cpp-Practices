@@ -1,7 +1,7 @@
 /*
-* Kullanıcıdan alınan sayılar arasından en büyük 4 tanesini bulan programı yazınız.
-* Sayıları alırken dinamik dizi içi pointer kullanınız ve sayıları sıralı bir şekilde
-* ekrana yazdırınız
+* KullanÃ½cÃ½dan alÃ½nan sayÃ½lar arasÃ½ndan en bÃ¼yÃ¼k 4 tanesini bulan programÃ½ yazÃ½nÃ½z.
+* SayÃ½larÃ½ alÃ½rken dinamik dizi iÃ§i pointer kullanÃ½nÃ½z ve sayÃ½larÃ½ sÃ½ralÃ½ bir Ã¾ekilde
+* ekrana yazdÃ½rÃ½nÃ½z
 */
 
 #include <iostream>
@@ -24,6 +24,7 @@ int main(){
 
     findLargestFour(numbers, n);
     delete[] numbers;
+    return 0;
 }
 
 void findLargestFour(int* numbers, int n) {
