@@ -1,0 +1,5 @@
+﻿  Point.cpp
+  UzaklikHesaplama.cpp
+C:\Users\LOKMAN\source\repos\UzaklikHesaplama\UzaklikHesaplama.cpp(24,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  UzaklikHesaplama.vcxproj -> C:\Users\LOKMAN\source\repos\UzaklikHesaplama\x64\Debug\UzaklikHesaplama.exe
